@@ -1,0 +1,72 @@
+body {
+    font-family: "Dancing Script", cursive, sans-serif; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  img {
+    width: 150; 
+    display: block;
+    border-radius: 20px; 
+   }
+   
+  
+  header {
+    background: linear-gradient(to right, #f0f0f0, #f0e6d0, #f0dfb9); 
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #e07a00; 
+  }
+  
+
+  main {
+    padding: 20px;
+    display: grid;
+  }
+  
+  .menu-section {
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .menu-section h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #e07a00; 
+  }
+  
+  .menu-item {
+    margin-bottom: 15px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid rgba(224, 122, 0, 0.3); 
+    border-radius: 30px;
+  }
+  
+  .menu-item p {
+    margin-bottom: 5px;
+    color: #666; 
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #e07a00; 
+  }
+  
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to right, #f0f0f0, #f0e6d0, #f0dfb9); 
+  }
+  
